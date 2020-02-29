@@ -22,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YSCtH8WAYLOTGaZDMjRwTv7VLt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -213,6 +213,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="25" key="#Notifications/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1582929327199" />
+    <state x="2196" y="235" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582978802788">
+      <screen x="1920" y="0" width="1024" height="728" />
+    </state>
+    <state x="2196" y="235" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824/1920.0.1024.728@1920.0.1024.728" timestamp="1582978802788" />
     <state x="354" y="0" key="CommitChangelistDialog2" timestamp="1582929279757">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
