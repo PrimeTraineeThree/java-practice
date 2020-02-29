@@ -8,11 +8,11 @@ public abstract class AbstractCars {
     private int privateSpeed;
 
 
-    public void setPrivateSpeed(int speed){
-        this.privateSpeed=speed;
+    public void setPrivateSpeed(int speed) {
+        this.privateSpeed = speed;
     }
 
-    public void engineStart(){
+    public void engineStart() {
         System.out.println("Engine started");
     }
 
